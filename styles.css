@@ -57,13 +57,13 @@ a {
 
 .cloud-top {
   position:absolute;
-  right: 300px;
+  right: 200px;
   top:50px;
 }
 
 .cloud-bottom {
   position: absolute;
-  left:300px;
+  left:200px;
 }
 
 .middle-container {
