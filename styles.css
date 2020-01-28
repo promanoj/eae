@@ -8,14 +8,14 @@ body {
 h1 {
   font-family: 'Gelasio', serif;
   color: #CA2AFF;
-  font-size: 250%;
+  font-size: 2rem;
   font-style: italic;
 
 }
 h3{
   font-family:'Encode Sans Expanded', sans-serif;
   color: #E37DFF;
-  font-size: 150%;
+  font-size: 1rem;
   font-weight: 600;
 
 }
